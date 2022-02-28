@@ -6,7 +6,7 @@ The purpose of this analysis is to create a report that includes what cryptocurr
 ## What is being created
 We are using four technical analysis:
 
-Deliverable 1: Preprocessing the Data for PCA
-Deliverable 2: Reducing Data Dimensions Using PCA
-Deliverable 3: Clustering Cryptocurrencies Using K-means
-Deliverable 4: Visualizing Cryptocurrencies Results
+1. Preprocessing the Data for PCA
+2. Reducing Data Dimensions Using PCA
+3. Clustering Cryptocurrencies Using K-means
+4. Visualizing Cryptocurrencies Results
